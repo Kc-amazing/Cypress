@@ -25,7 +25,8 @@ cy.contains('list')
 //     .click({force: true})
     
 // });
-it.only('test2', () => {
+it.
+only('test2', () => {
   cy.visit('/')
   
 
